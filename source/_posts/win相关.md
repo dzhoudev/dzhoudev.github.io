@@ -60,3 +60,9 @@ regedit
 # shift + F10
 start ms-cxh:localonly
 ```
+
+## 自动登陆
+* regedit 打开注册表
+* **AutoAdminLogon**：数值数据设置为 `1` (表示开启自动登录)。
+* **DefaultUserName**：数值数据填入你的**账户名**（微软账户则填完整的邮箱地址）。
+* **DefaultPassword**：数值数据填入你的**登录密码**。如果这个项目不存在，需要手动新建。
