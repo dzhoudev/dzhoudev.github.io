@@ -20,6 +20,7 @@ git pull
 ## 不同软件默认中英文
 
 ```yaml
+# weasel.custom.yaml
 patch:
   # 针对特定应用程序单独定制输入状态
   app_options:
