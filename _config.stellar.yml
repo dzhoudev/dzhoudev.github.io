@@ -359,7 +359,7 @@ footer:
     #     - '[xxx](/)'
   content: | # 支持 Markdown 格式
     本站由 [{author.name}](/) 使用 [{theme.name} {theme.version}]({theme.tree}) 主题创建。
-    本站由 <img src="/img/upyun_logo4.png" width="16" height="16" style="display:inline;vertical-align:middle;"> <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">又拍云</a> 提供加速服务，<img src="https://beian.mps.gov.cn/img/logo01.dd7ff50e.png" width="16" height="16" style="display:inline;vertical-align:middle;"> <a href="https://beian.mps.gov.cn/#/query/webSearch">京公网安备 11010702002953号</a>，<img src="https://img.dzho.cn/img/icp.png" width="16" height="16" style="display:inline;vertical-align:middle;"> <a href="https://beian.miit.gov.cn/">辽ICP备 2024037964号-2</a>。
+    <img src="https://beian.mps.gov.cn/img/logo01.dd7ff50e.png" width="16" height="16" style="display:inline;vertical-align:middle;"> <a href="https://beian.mps.gov.cn/#/query/webSearch">京公网安备 11010702002953号</a>，<img src="https://img.dzho.cn/img/icp.png" width="16" height="16" style="display:inline;vertical-align:middle;"> <a href="https://beian.miit.gov.cn/">辽ICP备 2024037964号-2</a>。
 
 ######## Tag Plugins ########
 tag_plugins:
